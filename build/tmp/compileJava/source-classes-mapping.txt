@@ -1,2 +1,0 @@
-io/github/rank/api/nsideshape/Loc.java
- io.github.rank.api.nsideshape.Loc
