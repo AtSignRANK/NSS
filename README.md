@@ -37,7 +37,6 @@ repositories {
 }
 
 dependencies {
-    implementation(kotlin("stdlib"))
     implementation("com.github.AtSignRANK:NSS:Tag")
 }
 ```
